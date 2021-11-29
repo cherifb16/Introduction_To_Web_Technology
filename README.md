@@ -1,1 +1,1 @@
-### Web technology exercices
+# Web technology exercices
